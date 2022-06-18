@@ -1,0 +1,39 @@
+.SearchBar .widget {
+  border: solid 1px white;
+  background-color: rgba(236, 236, 236, 0.6);
+}
+.SearchBar .navbar {
+  border: solid 1px white;
+  background-color: rgba(236, 236, 236, 0.6);
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.SearchBar .search-title-bar {
+  padding: 0;
+}
+.SearchBar button {
+  border: solid 1px #48484a;
+  transition: all 200ms ease-in-out;
+}
+.SearchBar #app-title {
+  font-size: 20px;
+  font-weight: 400;
+}
+.SearchBar #search {
+  color: black;
+}
+.SearchBar #search:hover {
+  border: solid 1px #48484a;
+  background-color: #ec6e4b;
+  color: white;
+}
+.SearchBar #here {
+  margin: 0px auto;
+  margin-left: 5px;
+  font-size: 18px;
+  background-color: #ec6e4b;
+}
+.SearchBar #here:hover {
+  background-color: rgba(236, 236, 236, 0);
+  color: black;
+}

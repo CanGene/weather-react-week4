@@ -1,0 +1,21 @@
+.Hourly .widget {
+  border: solid 1px white;
+  background-color: rgba(236, 236, 236, 0.6);
+}
+.Hourly #hourly {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Hourly .hour {
+  padding: 20px;
+}
+.Hourly .time-hourly {
+  font-size: 18px;
+}
+.Hourly .weather-icon-hourly {
+  max-width: 40%;
+  margin: 5px auto;
+}
+.Hourly .temperature-daily-hourly {
+  font-size: 18px;
+}

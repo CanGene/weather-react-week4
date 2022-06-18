@@ -1,0 +1,27 @@
+.Daily .widget {
+  border: solid 1px white;
+  background-color: rgba(236, 236, 236, 0.6);
+}
+.Daily #weekly {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.Daily .day {
+  margin: 20px auto;
+}
+.Daily .day-daily {
+  font-size: 22px;
+}
+.Daily .weather-icon-daily {
+  max-width: 50%;
+}
+.Daily .temperature-daily {
+  font-size: 20px;
+}
+.Daily .high {
+  font-weight: 500;
+}
+.Daily .low {
+  color: #48484a;
+  font-weight: 400;
+}
