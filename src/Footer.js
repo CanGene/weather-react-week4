@@ -15,7 +15,10 @@ export default function Footer() {
         <div className="col-sm-6 creditLine">
           <div className="footerR">
             <p>
-              <a href="https://github.com/CanGene/Weather-App" id="credit">
+              <a
+                href="https://github.com/CanGene/weather-react-week4"
+                id="credit"
+              >
                 Open-source code
               </a>
               <span> by Candace Genesis</span>
