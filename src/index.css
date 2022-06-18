@@ -1,9 +1,7 @@
 .App {
   text-align: center;
-}
-body {
-  color: black;
   background-color: #48484a;
+  color: black;
   font-family: "Rajdhani", sans-serif;
   padding: 100px;
 }
